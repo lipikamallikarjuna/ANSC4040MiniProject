@@ -22,7 +22,6 @@ This project will follow:
 * **Confidentiality** of farm and animal-level information
 * **Ethical data practices**
 * **FAIR principles** — Findable, Accessible, Interoperable, and Reusable
-* Applicable **data-use agreement**
 * Responsible handling and reporting of model-derived cow identities
 
 Raw confidential farm data will **not** be uploaded to the public GitHub repository.
@@ -37,7 +36,6 @@ The GitHub repository will contain:
 
 * `README.md` — Project description, workflow, timeline, and documentation
 * `LICENSE` — License for publicly available project materials
-* `Data Agreement` — Data Agreement template between the farm and student
 * `.gitignore` — Prevents confidential/unnecessary files from being uploaded such as the farm dataset
 * `notebooks/` — Analysis and modeling notebooks
 * `data/` — Data documentation and, but not publicly shared
@@ -67,7 +65,6 @@ A consistent **PascalCase naming convention** will be used for project files and
 * README
 * LICENSE
 * `.gitignore`
-* Data-use agreement documentation
 * Data/metadata documentation & Naming Conventions
 * Analysis and modeling notebooks
 * Reproducible workflow
