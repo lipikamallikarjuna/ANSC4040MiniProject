@@ -50,14 +50,19 @@ A consistent **PascalCase naming convention** will be used for project files and
 
 | Week      | Task                                                     | Deliverable         |
 | --------- | -------------------------------------------------------- | ------------------- |
-| **1**     | Project setup, data agreement, confidentiality & ethics  | Project plan        |
-| **1**     | Data exploration and understanding                       | Data exploration    |
-| **2**     | Data cleaning and identification of missing RFID records | Preprocessed data   |
+| **1**     | Setup, repo, data inspection, timeline, brainstorm       | Project plan        |
+| **2**     | Data exploration, cleaning and understanding             | Data exploration    |
+| **2**     | Identification of missing RFID records                   | Preprocessed data   |
 | **2**     | Feature exploration and engineering                      | Candidate features  |
 | **3**     | Model development                                        | Initial model       |
 | **3**     | Model evaluation and final analysis                      | Evaluation results  |
 | **4**     | Poster preparation & Presentation                        | Poster presentation |
 | Throughout| GitHub organization and reproducibility documentation    | Complete repository |
+
+## Project Setup details: 
+
+* The project will be executed using VS code as an IDE and use of AI to assist with the codes.
+* Model Choice:
 
 ## Final Deliverables
 
